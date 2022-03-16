@@ -1,5 +1,5 @@
 ### Gustavo Alves
-<b>Front-end Developer at Supersonic </b>
+<b>Front-end Developer</b>
 <hr />
 
 Brazilian, living in Sao Paulo, currently working at Supersonic, the pioneer at Conversion Rate Optimization in Brazil. Here I delevop and optimize WEB and Mobile applications aiming to deliver high performance and results with the User Experience and CRO Consulting Team.
