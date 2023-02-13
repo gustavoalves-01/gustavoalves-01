@@ -1,10 +1,10 @@
 ### Gustavo Alves
-<b>Front-end Developer</b>
+<b>Software Engineer</b>
 <hr />
 
-Brazilian, living in Sao Paulo, currently working at Supersonic, the pioneer at Conversion Rate Optimization in Brazil. Here I delevop and optimize WEB and Mobile applications aiming to deliver high performance and results with the User Experience and CRO Consulting Team.
+I'm 21 years old, Brazilian and Fullstack Software Developer with experience using Node.js, React.js, TypeScript, and tools that are adjacent to the workflow with these technologies.
 <br />
 
-<i> I´m a modern user interfaces lover, currently diving into the NextJS Stack.  </i>
+<i> I´m addicted to create new things</i>
 
-> “The secret of change is to focus all of your energy, not on fighting the old, but building on the new.“
+> “I can do all things through Christ which strengtheneth me“
