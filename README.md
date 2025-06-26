@@ -2,7 +2,7 @@
 <b>Software Engineer</b>
 <hr />
 
-I'm 21 years old, Brazilian and Fullstack Software Developer with experience using Node.js, React.js, TypeScript, and tools that are adjacent to the workflow with these technologies.
+Brazilian Software Engineer with 4 years of experience using Node.js, ReactJS, NextJS with TypeScript, and tools that are adjacent to the workflow with these technologies.
 <br />
 
 <i> I´m addicted to create new things</i>
